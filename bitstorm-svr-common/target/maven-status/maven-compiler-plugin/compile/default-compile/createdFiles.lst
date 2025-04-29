@@ -1,0 +1,7 @@
+cn/bitoffer/common/utils/jwt/JwtUtil.class
+cn/bitoffer/common/model/ResponseEntity.class
+cn/bitoffer/common/model/BaseModel.class
+cn/bitoffer/common/model/ResponseEnum.class
+cn/bitoffer/common/redis/ReentrantDistributeLock.class
+cn/bitoffer/common/redis/RedisConfig.class
+cn/bitoffer/common/redis/RedisBase.class

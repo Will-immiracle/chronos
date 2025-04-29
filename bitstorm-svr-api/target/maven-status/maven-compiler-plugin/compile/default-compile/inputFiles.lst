@@ -1,0 +1,9 @@
+/Users/zhangzan/Downloads/bitstorm-java-project-241010/bitstorm-svr-api/src/main/java/cn/bitoffer/api/dto/xtimer/TimerDTO.java
+/Users/zhangzan/Downloads/bitstorm-java-project-241010/bitstorm-svr-api/src/main/java/cn/bitoffer/api/dto/xtimer/LotteryParam.java
+/Users/zhangzan/Downloads/bitstorm-java-project-241010/bitstorm-svr-api/src/main/java/cn/bitoffer/api/feign/interceptor/ContextFeignInterceptor.java
+/Users/zhangzan/Downloads/bitstorm-java-project-241010/bitstorm-svr-api/src/main/java/cn/bitoffer/api/feign/TestSeckillClient.java
+/Users/zhangzan/Downloads/bitstorm-java-project-241010/bitstorm-svr-api/src/main/java/cn/bitoffer/api/feign/LotteryClient.java
+/Users/zhangzan/Downloads/bitstorm-java-project-241010/bitstorm-svr-api/src/main/java/cn/bitoffer/api/feign/XTimerClient.java
+/Users/zhangzan/Downloads/bitstorm-java-project-241010/bitstorm-svr-api/src/main/java/cn/bitoffer/api/feign/DemoClient.java
+/Users/zhangzan/Downloads/bitstorm-java-project-241010/bitstorm-svr-api/src/main/java/cn/bitoffer/api/dto/xtimer/NotifyHTTPParam.java
+/Users/zhangzan/Downloads/bitstorm-java-project-241010/bitstorm-svr-api/src/main/java/cn/bitoffer/api/feign/LeafFeignClient.java

@@ -1,0 +1,9 @@
+cn/bitoffer/api/dto/xtimer/TimerDTO.class
+cn/bitoffer/api/dto/xtimer/NotifyHTTPParam.class
+cn/bitoffer/api/feign/LeafFeignClient.class
+cn/bitoffer/api/feign/interceptor/ContextFeignInterceptor.class
+cn/bitoffer/api/feign/TestSeckillClient.class
+cn/bitoffer/api/dto/xtimer/LotteryParam.class
+cn/bitoffer/api/feign/XTimerClient.class
+cn/bitoffer/api/feign/LotteryClient.class
+cn/bitoffer/api/feign/DemoClient.class
