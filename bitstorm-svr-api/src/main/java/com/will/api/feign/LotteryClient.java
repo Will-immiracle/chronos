@@ -1,7 +1,6 @@
-package cn.bitoffer.api.feign;
+package com.will.api.feign;
 
-import cn.bitoffer.api.dto.xtimer.LotteryParam;
-import cn.bitoffer.api.dto.xtimer.TimerDTO;
+import com.will.api.dto.chronos.LotteryParam;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

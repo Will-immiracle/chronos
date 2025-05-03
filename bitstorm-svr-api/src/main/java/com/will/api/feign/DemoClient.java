@@ -1,4 +1,4 @@
-package cn.bitoffer.api.feign;
+package com.will.api.feign;
 
 
 import org.springframework.cloud.openfeign.FeignClient;

@@ -1,8 +1,8 @@
-package cn.bitoffer.api.feign;
+package com.will.api.feign;
 
 
-import cn.bitoffer.api.dto.xtimer.TimerDTO;
-import cn.bitoffer.api.feign.interceptor.ContextFeignInterceptor;
+import com.will.api.dto.chronos.TimerDTO;
+import com.will.api.feign.interceptor.ContextFeignInterceptor;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.util.MultiValueMap;
 import org.springframework.web.bind.annotation.*;

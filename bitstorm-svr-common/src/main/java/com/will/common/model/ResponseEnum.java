@@ -1,4 +1,4 @@
-package cn.bitoffer.common.model;
+package com.will.common.model;
 
 public enum ResponseEnum {
     OK(0, "ok"),

@@ -1,5 +1,6 @@
-package cn.bitoffer.common.redis;
+package com.will.common.redis;
 
+import com.will.common.redis.RedisBase;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;

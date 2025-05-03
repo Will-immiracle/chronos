@@ -1,4 +1,4 @@
-package cn.bitoffer.common.model;
+package com.will.common.model;
 
 import java.io.Serializable;
 import java.time.LocalDateTime;

@@ -1,4 +1,4 @@
-package cn.bitoffer.common.utils.jwt;
+package com.will.common.utils.jwt;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

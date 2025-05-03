@@ -1,4 +1,4 @@
-package cn.bitoffer.api.feign.interceptor;
+package com.will.api.feign.interceptor;
 
 import feign.RequestInterceptor;
 import feign.RequestTemplate;

@@ -1,4 +1,4 @@
-package cn.bitoffer.api.dto.xtimer;
+package com.will.api.dto.chronos;
 
 public class LotteryParam {
     private int userId;  // 用户id
