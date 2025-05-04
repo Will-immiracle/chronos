@@ -2,6 +2,8 @@ package com.will.chronos;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.scheduling.annotation.EnableAsync;
+import org.springframework.scheduling.annotation.EnableScheduling;
 
 /**
  * @program: chronos
@@ -10,8 +12,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @create: 2025-04-29 19:46
  **/
 
-@SpringBootApplication
-@MapperScan("com.will.chronos.mapper")
+@SpringBootApplication(scanBasePackages = {"com.will"})
+@EnableScheduling
+@EnableAsync
 public class ChronosApplication {
     public static void main(String[] args) {
         org.springframework.boot.SpringApplication.run(ChronosApplication.class, args);

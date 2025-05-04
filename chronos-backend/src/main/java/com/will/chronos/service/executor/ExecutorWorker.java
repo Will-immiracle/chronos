@@ -69,7 +69,7 @@ public class ExecutorWorker {
         }
 
         // 触发时间的误差误差时间
-        int gapTime = (int) (new Date().getTime() - taskModel.getRunTimer());
+        long gapTime = (int) (new Date().getTime() - taskModel.getRunTimer());
         taskModel.setCostTime(gapTime);
 
         // 执行http回调，通知业务放

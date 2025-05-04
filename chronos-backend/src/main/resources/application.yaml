@@ -8,6 +8,11 @@ spring:
     nacos:
       discovery:
         server-addr: 127.0.0.1:8848
+#    loadbalancer:
+#      cache:
+#        enabled: true
+#        caffeine:
+#          spec: maximumSize=500,expireAfterWrite=5s
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     druid:
